@@ -1,0 +1,15 @@
+ipykernel
+
+requests
+
+matplotlib
+
+numpy
+
+pandas
+
+torch
+
+torchvision
+
+scipy
